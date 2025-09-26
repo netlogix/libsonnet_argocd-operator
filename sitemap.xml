@@ -2,138 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1alpha1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1alpha1/appProject/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1alpha1/application/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1alpha1/applicationSet/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1alpha1/argoCD/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1alpha1/argoCDExport/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1alpha1/notificationsConfiguration/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1beta1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.12.2/argoproj/v1beta1/argoCD/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1alpha1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1alpha1/appProject/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1alpha1/application/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1alpha1/applicationSet/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1alpha1/argoCD/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1alpha1/argoCDExport/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1alpha1/notificationsConfiguration/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1beta1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.13.1/argoproj/v1beta1/argoCD/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1alpha1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1alpha1/appProject/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1alpha1/application/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1alpha1/applicationSet/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1alpha1/argoCD/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1alpha1/argoCDExport/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1alpha1/notificationsConfiguration/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1beta1/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.14.1/argoproj/v1beta1/argoCD/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1alpha1/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1alpha1/appProject/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1alpha1/application/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1alpha1/applicationSet/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1alpha1/argoCD/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1alpha1/argoCDExport/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1alpha1/notificationsConfiguration/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1beta1/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_argocd-operator/0.15.0/argoproj/v1beta1/argoCD/</loc>
+         <lastmod>2025-09-26</lastmod>
     </url>
 </urlset>
